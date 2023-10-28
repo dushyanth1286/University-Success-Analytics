@@ -1,1 +1,1 @@
-# University-Success-Analytics
+# University Success Analytics
